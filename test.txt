@@ -11,5 +11,5 @@ loadbundles=viomlib,lobby_catan
 entrance=catan
 
 cpffile=http://localhost:80/version.back.json
-
+haha=1
 host=http://127.0.0.1:86/
