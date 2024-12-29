@@ -1,0 +1,15 @@
+[def]
+Ver=1.02
+VerCode=1
+MiniVerCode=1
+VerSilence=5
+
+updatehost=http://localhost:80/
+versionfile1=version.json
+
+loadbundles=viomlib,lobby_catan
+entrance=catan
+
+cpffile=http://localhost:80/version.back.json
+
+host=http://127.0.0.1:86/
