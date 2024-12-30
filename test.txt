@@ -4,12 +4,12 @@ VerCode=1
 MiniVerCode=1
 VerSilence=5
 
-updatehost=http://localhost:80/
+updatehost=http://192.168.3.123:688/
 versionfile1=version.json
 
 loadbundles=viomlib,lobby_catan
 entrance=catan
 
-cpffile=http://localhost:80/version.back.json
-haha=1
+cpffile=http://192.168.3.123:688/version.back.json
+
 host=http://127.0.0.1:86/
