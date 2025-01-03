@@ -4,7 +4,7 @@ VerCode=1
 MiniVerCode=1
 VerSilence=5
 
-updatehost=http://192.168.3.123:688/
+updatehost=http://8.149.231.111:9903/
 versionfile1=version.json
 
 loadbundles=viomlib,lobby_catan
