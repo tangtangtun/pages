@@ -13,3 +13,4 @@ entrance=myiot
 cpffile=http://192.168.3.123:688/version.back.json
 
 host=http://127.0.0.1:86/
+tes=0
